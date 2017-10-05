@@ -129,7 +129,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: rgba(52, 128, 151, 0.92);
 }
 
 .flex-box {
@@ -169,6 +169,7 @@ img {
 
 span {
   padding: 5px;
+  color: #f3f3f3;
 }
 
 #lets-connect {
