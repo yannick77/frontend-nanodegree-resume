@@ -38,7 +38,7 @@ var bio={
         );
 
 
-        if(bio.skills!=null){
+        if(bio.skills!==null){
             $("#header").append(HTMLskillsStart);
             var formattedSkills="";
             bio.skills.forEach(function (skill) {
